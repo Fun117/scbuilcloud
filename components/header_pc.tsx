@@ -48,12 +48,9 @@ export default function Header_pc_parts() {
                         <span className="text-lg text-[#CCCCCC] font-medium">ScbuilCloud</span>
                     </a>
                     <div className="flex absolute left-1/2 -translate-x-1/2 top-1/2 -translate-y-1/2 py-2 space-x-6 text-sm items-center justify-center px-6 font-medium overflow-hidden">
-                    <a className="relative group bg-transparent hover:text-white/[0.64] transition duration-200" href="/pricing">Pricing</a>
-                    <a className="relative group bg-transparent hover:text-white/[0.64] transition duration-200" href="/features">Features</a>
-                    <a target="__blank" rel="noopener noreferrer" href="https://github.com/getcursor/cursor" className="relative group bg-transparent hover:text-white/[0.64] transition duration-200">GitHub</a>
-                    <a target="__blank" rel="noopener noreferrer" href="https://forum.cursor.sh" className="relative group bg-transparent hover:text-white/[0.64] transition duration-200">Forum</a>
-                    <a target="__blank" rel="noopener noreferrer" href="https://anysphere.co" className="relative group bg-transparent hover:text-white/[0.64] transition duration-200">Careers</a>
-                    <a className="relative group bg-transparent hover:text-white/[0.64] transition duration-200" href="/blog">Blog</a>
+                        <a target="__blank" rel="noopener noreferrer" href="https://scratch.mit.edu/users/ScbuilCloud/" className="relative group bg-transparent hover:text-white/[0.64] transition duration-200">Scratch</a>
+                        <a target="__blank" rel="noopener noreferrer" href="https://github.com/Fun117/scbuilcloud" className="relative group bg-transparent hover:text-white/[0.64] transition duration-200">GitHub</a>
+                        <a target="__blank" rel="noopener noreferrer" href="https://discord.com/users/990984460365365258" className="relative group bg-transparent hover:text-white/[0.64] transition duration-200">Discord</a>
                     </div>
                     <div className="flex space-x-4 items-center">
                         <a href="/api/auth/login" className="text-sm font-medium text-white text-opacity-60 hover:text-opacity-80 transition">Sign in</a>

@@ -108,22 +108,6 @@ export default function Home() {
               </div>
             </div>
           </div>
-          <h1>TEXT</h1>
-          <h1>TEXT</h1>
-          <h1>TEXT</h1>
-          <h1>TEXT</h1>
-          <h1>TEXT</h1>
-          <h1>TEXT</h1>
-          <h1>TEXT</h1>
-          <h1>TEXT</h1>
-          <h1>TEXT</h1>
-          <h1>TEXT</h1>
-          <h1>TEXT</h1>
-          <h1>TEXT</h1>
-          <h1>TEXT</h1>
-          <h1>TEXT</h1>
-          <h1>TEXT</h1>
-          <h1>TEXT</h1>
         </main>
       </div>
     </body>

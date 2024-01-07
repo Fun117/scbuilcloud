@@ -63,23 +63,14 @@ export default function Header_mb_parts() {
                                 </svg>
                             </button>
                         </div>
-                        <a className="relative" href="/pricing">
-                            <span className="block text-white/[0.64]" style={opacity_1_and_transform}>Pricing </span>
+                        <a target="__blank" rel="noopener noreferrer" href="https://scratch.mit.edu/users/ScbuilCloud/" className="relative">
+                            <span className="block text-white/[0.64]" style={opacity_1_and_transform}>Scratch </span>
                         </a>
-                        <a className="relative" href="/features">
-                            <span className="block text-white/[0.64]" style={opacity_1_and_transform}>Features </span>
-                        </a>
-                        <a target="__blank" rel="noopener noreferrer" href="https://github.com/getcursor/cursor" className="relative">
+                        <a target="__blank" rel="noopener noreferrer" href="https://github.com/Fun117/scbuilcloud" className="relative">
                             <span className="block text-white/[0.64]" style={opacity_1_and_transform}>GitHub </span>
                         </a>
-                        <a target="__blank" rel="noopener noreferrer" href="https://forum.cursor.sh" className="relative">
-                            <span className="block text-white/[0.64]" style={opacity_1_and_transform}>Forum </span>
-                        </a>
-                        <a target="__blank" rel="noopener noreferrer" href="https://anysphere.co" className="relative">
-                            <span className="block text-white/[0.64]" style={opacity_1_and_transform}>Careers </span>
-                        </a>
-                        <a className="relative" href="/blog">
-                            <span className="block text-white/[0.64]" style={opacity_1_and_transform}>Blog </span>
+                        <a target="__blank" rel="noopener noreferrer" href="https://discord.com/users/990984460365365258" className="relative">
+                            <span className="block text-white/[0.64]" style={opacity_1_and_transform}>Discord </span>
                         </a>
                     </div>
                 </div>
